@@ -1,4 +1,4 @@
-module github.com/crgimenes/glaze
+module github.com/daforester/glaze
 
 go 1.26
 
